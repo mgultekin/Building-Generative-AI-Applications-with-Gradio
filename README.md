@@ -1,2 +1,2 @@
-# Building-AI-Applications-with-Gradio
+# Building Generative AI Applications with Gradio on Colab
 Course materials
