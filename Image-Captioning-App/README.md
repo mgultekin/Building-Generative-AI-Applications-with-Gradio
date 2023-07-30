@@ -1,1 +1,1 @@
-![A screenshot of an app](Image-Captioning-App/app_view.jpg)
+![A screenshot of an app](app_view.jpg)
